@@ -1,0 +1,16 @@
+attrs==19.3.0
+colorzero==1.1
+configparser==5.0.1
+gpiozero==1.5.1
+jsonschema==3.2.0
+MinimalModbus==0.7
+paho-mqtt==1.4.0
+plantower==0.0.11
+prometheus-client==0.1.0
+pyrsistent==0.16.0
+pyserial==3.4
+RPi.bme280==0.2.3
+six==1.15.0
+smbus2==0.3.0
+solarshed==0.1
+tb-mqtt-client==1.0.0
